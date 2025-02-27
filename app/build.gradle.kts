@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.anuj.testflowlib"
+    namespace = "com.anuj.flow_dialog_lib"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.anuj.testflowlib"
+        applicationId = "com.anuj.flow_dialog_lib"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

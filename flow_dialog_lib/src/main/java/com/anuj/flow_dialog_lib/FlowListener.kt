@@ -5,7 +5,7 @@ import android.app.Dialog
 import android.view.Window
 import android.widget.TextView
 
-class FlowListener {
+public class FlowListener {
     fun showDialog(activity: Activity) {
         val dialog = Dialog(activity)
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)

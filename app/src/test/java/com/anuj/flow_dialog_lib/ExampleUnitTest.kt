@@ -1,4 +1,4 @@
-package com.anuj.testflowlib
+package com.anuj.flow_dialog_lib
 
 import org.junit.Test
 
